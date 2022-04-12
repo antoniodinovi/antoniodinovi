@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @antoniodinovi
+- 👀 I’m interested in web development and learn everithing can improve my applications
+- 🌱 I’m currently learning micro-frontend and code optimization
+- 📫 How to reach me https://twitter.com/dna1986 https://stackoverflow.com/users/10801086/dna
